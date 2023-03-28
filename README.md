@@ -13,5 +13,7 @@
 <p/>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nathancspencer)](https://git.io/streak-stats)
-</>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nathancspencer" alt="GitHub Streak" />
+  </a>
+</p>
