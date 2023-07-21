@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Spencer</h1>
-<p align="center">A software engineering student at UNSW, I love solving problems with code</p>
+<p align="center">I love solving problems with code</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
